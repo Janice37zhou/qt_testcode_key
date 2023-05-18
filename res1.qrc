@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clock1_446RGB_424.png</file>
+        <file>images/openedv.png</file>
+    </qresource>
+</RCC>
